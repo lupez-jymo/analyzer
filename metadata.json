@@ -1,0 +1,6 @@
+{
+  "name": "Deriv Options Analyzer",
+  "description": "Independent market-analysis and decision-support platform for Deriv-style synthetic and contract markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
